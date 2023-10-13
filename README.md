@@ -281,6 +281,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 
 <!---
-USDT/ERC-20 0x2C69bAd1c5C6da4a52465De39dCCE9D73bAd13a2
-USDT/TRC-20 TE23PjRfJqod9z4DAoZ7JyVNtM8XJdCsKt
+USDT/ERC-20 0x9e5c73c8eD5E0C2D3791628150D933902e02A6a9
+USDT/TRC-20 TQQYX4knvgF5pggEC67HC6q6KFh2LDhm8J
 --->
